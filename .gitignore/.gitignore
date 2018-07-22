@@ -2,3 +2,6 @@ node_modules/
 *.json
 *.map
 fonts/
+.vscode/
+dist/
+*.config.js
